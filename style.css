@@ -58,7 +58,6 @@ h1 {
     padding: 20px;
     width: 100%;
     max-width: 1200px;
-    /* Adjust as needed */
 }
 
 .year-title {
@@ -111,9 +110,7 @@ h1 {
     background-color: #f9f9f9;
     cursor: pointer;
     position: relative;
-    /* For tooltip positioning */
     font-size: 0.9em;
-    /* タップ時のハイライト効果を改善 */
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
     user-select: none;
 }
@@ -124,7 +121,6 @@ h1 {
     cursor: default;
 }
 
-/* タップ時のフィードバック */
 .day:not(.empty):active {
     transform: scale(0.95);
     transition: transform 0.1s;
@@ -133,23 +129,21 @@ h1 {
 /* Demand Level Colors */
 .day.low-demand {
     background-color: #e0ffe0;
-    /* Light Green */
 }
 
 .day.medium-demand {
     background-color: #fffacd;
-    /* Lemon Chiffon */
 }
 
 .day.high-demand {
     background-color: #ffcccc;
-    /* Light Red */
 }
 
 /* Tooltip */
 .tooltip {
     visibility: hidden;
     width: 280px;
+    max-width: 90vw;
     background-color: #333;
     color: #fff;
     text-align: left;
@@ -157,32 +151,13 @@ h1 {
     padding: 15px;
     position: absolute;
     z-index: 1000;
-    bottom: 125%;
-    /* Position above the day */
-    left: 50%;
-    margin-left: -140px;
-    /* Center the tooltip */
     opacity: 0;
     transition: opacity 0.3s, visibility 0.3s;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    /* スマホでの表示改善 */
-    max-width: 90vw;
     font-size: 14px;
 }
 
-/* デスクトップ：ホバーで表示 */
-.day:hover .tooltip {
-    visibility: visible;
-    opacity: 1;
-}
-
-/* スマホ：タップで表示 */
-.tooltip.tooltip-active {
-    visibility: visible !important;
-    opacity: 1 !important;
-}
-
-.tooltip::after {
+.tooltip.top::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -193,6 +168,27 @@ h1 {
     border-color: #333 transparent transparent transparent;
 }
 
+.tooltip.bottom::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #333 transparent;
+}
+
+.day:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip.tooltip-active {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
 .tooltip p {
     margin: 0 0 8px 0;
     font-size: 0.9em;
@@ -201,7 +197,6 @@ h1 {
 
 .tooltip strong {
     color: #ffd700;
-    /* Gold for emphasis */
 }
 
 .tooltip ul {
@@ -258,24 +253,8 @@ h1 {
 
     .tooltip {
         width: 250px;
-        margin-left: -125px;
+        max-width: 90vw;
         font-size: 13px;
         padding: 12px;
-        /* スマホでは画面端での調整 */
-        transform: translateX(0);
-    }
-
-    /* 画面端での調整 */
-    .day:first-child .tooltip,
-    .day:nth-child(2) .tooltip {
-        left: 0;
-        margin-left: 0;
-    }
-
-    .day:last-child .tooltip,
-    .day:nth-child(6) .tooltip {
-        right: 0;
-        left: auto;
-        margin-left: 0;
     }
 }

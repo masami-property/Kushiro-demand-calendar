@@ -146,11 +146,11 @@ def generate_calendar_data(events_csv_path, start_year, end_year):
         data["demand_score"] = (
             (data["demand_score"] / max_score) * 100 if max_score > 0 else 0
         )
-        # 正規化後の影響度判定
+        # 正規化後の影響度判定（30点で黄色、50点で赤）
         data["impact_level"] = (
             "High"
-            if data["demand_score"] >= 80
-            else "Medium" if data["demand_score"] >= 50 else "Low"
+            if data["demand_score"] >= 50
+            else "Medium" if data["demand_score"] >= 30 else "Low"
         )
 
     return calendar_data

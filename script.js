@@ -1,6 +1,63 @@
 document.addEventListener('DOMContentLoaded', () => {
     let activeTooltip = null; // 現在表示中のツールチップを追跡
 
+    // ツールチップの位置を動的に調整する関数
+    function adjustTooltipPosition(dayDiv, tooltip) {
+        tooltip.style.left = '';
+        tooltip.style.right = '';
+        tooltip.style.top = '';
+        tooltip.style.bottom = '';
+
+        const dayRect = dayDiv.getBoundingClientRect();
+        const tooltipRect = tooltip.getBoundingClientRect();
+        const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+        const viewportHeight = window.innerHeight || document.documentElement.clientHeight;
+
+        // デフォルト: 上に表示
+        let position = 'top';
+        tooltip.style.bottom = '125%';
+        tooltip.style.left = '50%';
+        tooltip.style.transform = 'translateX(-50%)';
+
+        // ツールチップの新しい位置を計算
+        const newTooltipRect = tooltip.getBoundingClientRect();
+
+        // 右端にはみ出す場合
+        if (newTooltipRect.right > viewportWidth - 10) {
+            tooltip.style.left = 'auto';
+            tooltip.style.right = `-${dayRect.width / 2}px`;
+            tooltip.style.transform = 'none';
+        }
+        // 左端にはみ出す場合
+        if (newTooltipRect.left < 10) {
+            tooltip.style.left = `-${dayRect.width / 2}px`;
+            tooltip.style.right = 'auto';
+            tooltip.style.transform = 'none';
+        }
+        // 下端にはみ出す場合（上に収まらない場合、下に表示）
+        if (newTooltipRect.bottom > viewportHeight - 10) {
+            position = 'bottom';
+            tooltip.style.bottom = 'auto';
+            tooltip.style.top = '125%';
+            tooltip.classList.remove('top');
+            tooltip.classList.add('bottom');
+        } else {
+            tooltip.classList.remove('bottom');
+            tooltip.classList.add('top');
+        }
+
+        // 上端にはみ出す場合（下に表示）
+        if (newTooltipRect.top < 10) {
+            position = 'bottom';
+            tooltip.style.bottom = 'auto';
+            tooltip.style.top = '125%';
+            tooltip.classList.remove('top');
+            tooltip.classList.add('bottom');
+        }
+
+        return position;
+    }
+
     fetch('data/processed/calendar_data.json')
         .then(response => response.json())
         .then(data => {
@@ -45,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const dayGridDiv = document.createElement('div');
                     dayGridDiv.classList.add('day-grid');
 
-                    const firstDayOfMonth = new Date(year, month - 1, 1).getDay(); // 0 for Sunday, 1 for Monday...
+                    const firstDayOfMonth = new Date(year, month - 1, 1).getDay();
                     for (let i = 0; i < firstDayOfMonth; i++) {
                         const emptyDay = document.createElement('div');
                         emptyDay.classList.add('day', 'empty');
@@ -72,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                             // Tooltip
                             const tooltip = document.createElement('div');
-                            tooltip.classList.add('tooltip');
+                            tooltip.classList.add('tooltip', 'top');
                             let tooltipContent = `<strong>日付: ${dayData.date}</strong><br>`;
                             tooltipContent += `<p>需要スコア: ${dayData.demand_score.toFixed(2)}</p>`;
                             tooltipContent += `<p>影響度レベル: ${dayData.impact_level}</p>`;
@@ -95,39 +152,39 @@ document.addEventListener('DOMContentLoaded', () => {
                             tooltip.innerHTML = tooltipContent;
                             dayDiv.appendChild(tooltip);
 
-                            // スマホ対応：タップでツールチップ表示
-                            dayDiv.addEventListener('click', function(e) {
+                            // ホバーでツールチップ表示（PC）
+                            dayDiv.addEventListener('mouseenter', () => {
+                                if (!activeTooltip) {
+                                    adjustTooltipPosition(dayDiv, tooltip);
+                                    tooltip.classList.add('tooltip-active');
+                                    activeTooltip = tooltip;
+                                }
+                            });
+
+                            dayDiv.addEventListener('mouseleave', () => {
+                                if (activeTooltip === tooltip) {
+                                    tooltip.classList.remove('tooltip-active');
+                                    activeTooltip = null;
+                                }
+                            });
+
+                            // タップでツールチップ表示（スマホ）
+                            dayDiv.addEventListener('click', (e) => {
                                 e.preventDefault();
                                 e.stopPropagation();
-                                
-                                // 他のアクティブなツールチップを隠す
+
                                 if (activeTooltip && activeTooltip !== tooltip) {
                                     activeTooltip.classList.remove('tooltip-active');
                                 }
-                                
-                                // 現在のツールチップの表示を切り替え
+
                                 const isActive = tooltip.classList.contains('tooltip-active');
                                 if (isActive) {
                                     tooltip.classList.remove('tooltip-active');
                                     activeTooltip = null;
                                 } else {
+                                    adjustTooltipPosition(dayDiv, tooltip);
                                     tooltip.classList.add('tooltip-active');
                                     activeTooltip = tooltip;
-
-                                    // ツールチップの表示位置を調整
-                                    const tooltipRect = tooltip.getBoundingClientRect();
-                                    const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-                                    const viewportHeight = window.innerHeight || document.documentElement.clientHeight;
-
-                                    // 右端からはみ出す場合
-                                    if (tooltipRect.right > viewportWidth) {
-                                        tooltip.style.left = `-${tooltipRect.width}px`;
-                                    }
-
-                                    // 下端からはみ出す場合
-                                    if (tooltipRect.bottom > viewportHeight) {
-                                        tooltip.style.top = `-${tooltipRect.height}px`;
-                                    }
                                 }
                             });
                         }
@@ -141,7 +198,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // 背景をクリックしたときにツールチップを隠す
-            document.addEventListener('click', function(e) {
+            document.addEventListener('click', (e) => {
                 if (activeTooltip && !e.target.closest('.day')) {
                     activeTooltip.classList.remove('tooltip-active');
                     activeTooltip = null;
