@@ -61,8 +61,18 @@ def generate_calendar_data(events_csv_path, start_year, end_year):
         # 複数日にわたるイベントも考慮
         for _, event in df_events.iterrows():
             if event['StartDate'].date() <= current_date <= event['EndDate'].date():
+                subject_with_emoji = event['Subject']
+                if event['EventType'] == '大会':
+                    subject_with_emoji = "🏆 " + subject_with_emoji # 大会に絵文字を追加
+                elif event['EventType'] == 'クルーズ':
+                    subject_with_emoji = "🚢 " + subject_with_emoji # クルーズに絵文字を追加
+                elif event['EventType'] == 'イベント':
+                    subject_with_emoji = "🎉 " + subject_with_emoji # イベントに絵文字を追加
+                elif event['EventType'] == 'コンサート':
+                    subject_with_emoji = "🎤 " + subject_with_emoji # コンサートに絵文字を追加
+
                 daily_data["events"].append({
-                    "subject": event['Subject'],
+                    "subject": subject_with_emoji,
                     "event_type": event['EventType'],
                     "estimated_attendees": event['EstimatedAttendees'],
                     "location": event['Location'],
