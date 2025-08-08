@@ -4,7 +4,7 @@
         "is_holiday": true,
         "holiday_name": "元日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -13,7 +13,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -22,7 +22,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -31,7 +31,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -40,7 +40,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -49,7 +49,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -58,7 +58,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -67,7 +67,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -76,7 +76,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -85,7 +85,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -94,7 +94,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -103,7 +103,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -112,7 +112,7 @@
         "is_holiday": true,
         "holiday_name": "成人の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -121,7 +121,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -130,7 +130,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -139,7 +139,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -148,7 +148,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -157,7 +157,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -166,7 +166,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -175,7 +175,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -184,7 +184,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -193,7 +193,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -202,7 +202,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -211,7 +211,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -220,7 +220,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -229,7 +229,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -238,7 +238,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -247,7 +247,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -256,7 +256,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -265,7 +265,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -274,7 +274,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -283,7 +283,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -292,7 +292,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -301,7 +301,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -310,7 +310,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -319,7 +319,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -328,7 +328,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -337,7 +337,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -346,7 +346,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -355,7 +355,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -364,7 +364,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -373,7 +373,7 @@
         "is_holiday": true,
         "holiday_name": "建国記念の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -382,7 +382,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -391,7 +391,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -400,7 +400,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -409,7 +409,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -418,7 +418,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -427,7 +427,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -436,7 +436,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -445,7 +445,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -454,7 +454,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -463,7 +463,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -472,7 +472,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -481,7 +481,7 @@
         "is_holiday": true,
         "holiday_name": "天皇誕生日",
         "events": [],
-        "demand_score": 70,
+        "demand_score": 0.5611351827927438,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -490,7 +490,7 @@
         "is_holiday": true,
         "holiday_name": "休日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -499,7 +499,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -508,7 +508,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -517,7 +517,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -526,7 +526,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -535,7 +535,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -544,7 +544,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -553,7 +553,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -562,7 +562,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -571,7 +571,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -580,7 +580,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -589,7 +589,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -598,7 +598,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -607,7 +607,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -616,7 +616,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -625,7 +625,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -634,7 +634,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -643,7 +643,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -652,7 +652,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -661,7 +661,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -670,7 +670,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -679,7 +679,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -688,7 +688,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -697,7 +697,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -706,7 +706,7 @@
         "is_holiday": true,
         "holiday_name": "春分の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -715,7 +715,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -724,7 +724,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -733,7 +733,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -742,7 +742,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -751,7 +751,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -760,7 +760,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -769,7 +769,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -778,7 +778,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -787,7 +787,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -796,7 +796,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -805,7 +805,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -814,7 +814,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -823,7 +823,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -832,7 +832,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -841,7 +841,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -850,7 +850,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 113.93138780108363,
+        "demand_score": 0.9132987159941718,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -859,7 +859,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 113.93138780108363,
+        "demand_score": 0.9132987159941718,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -868,7 +868,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -877,7 +877,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -886,7 +886,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -903,7 +903,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 131.01138780108363,
+        "demand_score": 1.0502157005956014,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -912,7 +912,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -921,7 +921,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 113.93138780108363,
+        "demand_score": 0.9132987159941718,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -930,7 +930,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 113.93138780108363,
+        "demand_score": 0.9132987159941718,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -939,7 +939,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -948,7 +948,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -957,7 +957,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -966,7 +966,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 93.93138780108363,
+        "demand_score": 0.752974378053388,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -983,7 +983,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 226.37138780108364,
+        "demand_score": 1.814642143897259,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1007,7 +1007,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 163.93138780108364,
+        "demand_score": 1.3141095608461317,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1031,7 +1031,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 163.93138780108364,
+        "demand_score": 1.3141095608461317,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1048,7 +1048,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 101.18138780108363,
+        "demand_score": 0.8110919505569222,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1065,7 +1065,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 101.18138780108363,
+        "demand_score": 0.8110919505569222,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1082,7 +1082,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 101.18138780108363,
+        "demand_score": 0.8110919505569222,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1099,7 +1099,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 101.18138780108363,
+        "demand_score": 0.8110919505569222,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1116,7 +1116,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 101.18138780108363,
+        "demand_score": 0.8110919505569222,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1147,9 +1147,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 426.79488473359896,
+        "demand_score": 3.4311162155247947,
         "monthly_trend_score": 46.965693900541815,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-04-27": {
         "date": "2025-04-27",
@@ -1178,9 +1178,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 426.79488473359896,
+        "demand_score": 3.4311162155247947,
         "monthly_trend_score": 46.965693900541815,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-04-28": {
         "date": "2025-04-28",
@@ -1202,7 +1202,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 101.79488473359896,
+        "demand_score": 0.8258457239870556,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1226,9 +1226,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 506.469884733599,
+        "demand_score": 4.069808296796392,
         "monthly_trend_score": 46.965693900541815,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-04-30": {
         "date": "2025-04-30",
@@ -1250,9 +1250,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 456.469884733599,
+        "demand_score": 3.6689974519444326,
         "monthly_trend_score": 46.965693900541815,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-01": {
         "date": "2025-05-01",
@@ -1281,9 +1281,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 543.4144306270596,
+        "demand_score": 4.3659637898409915,
         "monthly_trend_score": 71.89796684727214,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-02": {
         "date": "2025-05-02",
@@ -1305,9 +1305,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 506.33443062705965,
+        "demand_score": 4.0687224672987785,
         "monthly_trend_score": 71.89796684727214,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-03": {
         "date": "2025-05-03",
@@ -1336,9 +1336,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 595.467763960393,
+        "demand_score": 4.783234600054873,
         "monthly_trend_score": 71.89796684727214,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-04": {
         "date": "2025-05-04",
@@ -1367,9 +1367,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 595.467763960393,
+        "demand_score": 4.783234600054873,
         "monthly_trend_score": 71.89796684727214,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-05": {
         "date": "2025-05-05",
@@ -1398,9 +1398,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 575.467763960393,
+        "demand_score": 4.622910262114089,
         "monthly_trend_score": 71.89796684727214,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-06": {
         "date": "2025-05-06",
@@ -1422,9 +1422,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 556.3344306270596,
+        "demand_score": 4.469533312150738,
         "monthly_trend_score": 71.89796684727214,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-05-07": {
         "date": "2025-05-07",
@@ -1439,7 +1439,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1456,7 +1456,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1473,7 +1473,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1490,7 +1490,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1507,7 +1507,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1524,7 +1524,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1541,7 +1541,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1558,7 +1558,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1575,7 +1575,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1592,7 +1592,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1609,7 +1609,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1626,7 +1626,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1643,7 +1643,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1660,7 +1660,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1677,7 +1677,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1694,7 +1694,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1711,7 +1711,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1728,7 +1728,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1745,7 +1745,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1762,7 +1762,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1779,7 +1779,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1796,7 +1796,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1813,7 +1813,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1830,7 +1830,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 144.40943062705963,
+        "demand_score": 1.1674531668378672,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1847,7 +1847,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.40943062705963,
+        "demand_score": 1.327777504778651,
         "monthly_trend_score": 71.89796684727214,
         "impact_level": "Low"
     },
@@ -1864,7 +1864,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1881,7 +1881,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1898,7 +1898,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1915,7 +1915,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1932,7 +1932,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1949,7 +1949,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1966,7 +1966,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -1983,7 +1983,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2000,7 +2000,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2017,7 +2017,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2034,7 +2034,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2051,7 +2051,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2068,7 +2068,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2092,7 +2092,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 274.39423115635884,
+        "demand_score": 2.2094395211991054,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2116,7 +2116,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 274.39423115635884,
+        "demand_score": 2.2094395211991054,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2140,7 +2140,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 254.39423115635887,
+        "demand_score": 2.0491151832583214,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2157,7 +2157,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2174,7 +2174,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2191,7 +2191,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2208,7 +2208,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2225,7 +2225,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2242,7 +2242,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2259,7 +2259,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2276,7 +2276,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2293,7 +2293,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2310,7 +2310,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2327,7 +2327,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 161.06089782302553,
+        "demand_score": 1.3009349395346628,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2344,7 +2344,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2361,7 +2361,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 181.06089782302553,
+        "demand_score": 1.4612592774754467,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2385,7 +2385,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 178.94089782302552,
+        "demand_score": 1.4442648976537238,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2402,7 +2402,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2426,7 +2426,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 209.70823433930684,
+        "demand_score": 1.690902540512429,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2450,7 +2450,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 209.70823433930684,
+        "demand_score": 1.690902540512429,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2467,7 +2467,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2491,7 +2491,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 274.70823433930684,
+        "demand_score": 2.2119566388199763,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2522,7 +2522,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 293.5653771964497,
+        "demand_score": 2.3631195860212872,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2546,7 +2546,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.5653771964497,
+        "demand_score": 1.5614978963173678,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2570,7 +2570,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.5653771964497,
+        "demand_score": 1.5614978963173678,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2594,7 +2594,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.5653771964497,
+        "demand_score": 1.5614978963173678,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2618,7 +2618,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.5653771964497,
+        "demand_score": 1.5614978963173678,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2656,7 +2656,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 293.5653771964497,
+        "demand_score": 2.8975340458239,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2701,9 +2701,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 578.5653771964497,
+        "demand_score": 5.182155861480071,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-13": {
         "date": "2025-07-13",
@@ -2739,9 +2739,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 559.7082343393068,
+        "demand_score": 5.0309929142787615,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-14": {
         "date": "2025-07-14",
@@ -2756,7 +2756,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2773,7 +2773,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2790,7 +2790,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2807,7 +2807,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2824,7 +2824,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2848,9 +2848,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 312.04156767264016,
+        "demand_score": 2.51122873630944,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-20": {
         "date": "2025-07-20",
@@ -2872,9 +2872,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 312.04156767264016,
+        "demand_score": 2.51122873630944,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-21": {
         "date": "2025-07-21",
@@ -2896,9 +2896,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 342.04156767264016,
+        "demand_score": 2.751715243220616,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-22": {
         "date": "2025-07-22",
@@ -2913,7 +2913,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2930,7 +2930,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2947,7 +2947,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2978,9 +2978,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 506.5749010059735,
+        "demand_score": 5.673893509421305,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-26": {
         "date": "2025-07-26",
@@ -3009,9 +3009,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 526.5749010059735,
+        "demand_score": 5.834217847362089,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-27": {
         "date": "2025-07-27",
@@ -3040,9 +3040,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 526.5749010059735,
+        "demand_score": 5.834217847362089,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-07-28": {
         "date": "2025-07-28",
@@ -3057,7 +3057,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -3074,7 +3074,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -3091,7 +3091,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -3108,7 +3108,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 174.70823433930684,
+        "demand_score": 1.410334949116057,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -3132,9 +3132,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 2796.213496932515,
+        "demand_score": 22.424889730792906,
         "monthly_trend_score": 100.0,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2025-08-02": {
         "date": "2025-08-02",
@@ -3163,9 +3163,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 2866.213496932515,
+        "demand_score": 23.787646603289573,
         "monthly_trend_score": 100.0,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2025-08-03": {
         "date": "2025-08-03",
@@ -3194,9 +3194,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 2866.213496932515,
+        "demand_score": 23.787646603289573,
         "monthly_trend_score": 100.0,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2025-08-04": {
         "date": "2025-08-04",
@@ -3211,7 +3211,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3228,7 +3228,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3245,7 +3245,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3262,7 +3262,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3279,7 +3279,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3310,9 +3310,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 534.6134969325153,
+        "demand_score": 4.295413596449063,
         "monthly_trend_score": 100.0,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-08-10": {
         "date": "2025-08-10",
@@ -3341,9 +3341,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 534.6134969325153,
+        "demand_score": 4.295413596449063,
         "monthly_trend_score": 100.0,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-08-11": {
         "date": "2025-08-11",
@@ -3358,7 +3358,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 250.61349693251535,
+        "demand_score": 2.0188079976899322,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3375,7 +3375,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3392,7 +3392,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3409,7 +3409,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 200.61349693251535,
+        "demand_score": 1.6179971528379726,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3433,9 +3433,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 350.6134969325153,
+        "demand_score": 2.820429687393852,
         "monthly_trend_score": 100.0,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-08-16": {
         "date": "2025-08-16",
@@ -3464,9 +3464,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 375.1589514779699,
+        "demand_score": 3.090066073930625,
         "monthly_trend_score": 100.0,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-08-17": {
         "date": "2025-08-17",
@@ -3495,9 +3495,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 375.1589514779699,
+        "demand_score": 3.090066073930625,
         "monthly_trend_score": 100.0,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-08-18": {
         "date": "2025-08-18",
@@ -3526,7 +3526,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 264.79895147796987,
+        "demand_score": 2.205396377173379,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3550,7 +3550,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3574,7 +3574,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3598,7 +3598,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3622,7 +3622,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3646,7 +3646,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 225.15895147796988,
+        "demand_score": 1.8876335393747457,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3670,7 +3670,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 225.15895147796988,
+        "demand_score": 1.8876335393747457,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3694,7 +3694,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3718,7 +3718,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3742,7 +3742,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3766,7 +3766,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3790,7 +3790,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 205.15895147796988,
+        "demand_score": 1.7273092014339617,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3821,7 +3821,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 287.6389514779699,
+        "demand_score": 2.388486771101755,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3845,7 +3845,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 225.15895147796988,
+        "demand_score": 1.8876335393747457,
         "monthly_trend_score": 100.0,
         "impact_level": "Low"
     },
@@ -3869,7 +3869,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 178.53081993996224,
+        "demand_score": 1.5138523234624024,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -3893,7 +3893,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 178.53081993996224,
+        "demand_score": 1.5138523234624024,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -3917,7 +3917,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 178.53081993996224,
+        "demand_score": 1.5138523234624024,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -3941,7 +3941,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 178.53081993996224,
+        "demand_score": 1.5138523234624024,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -3965,7 +3965,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 178.53081993996224,
+        "demand_score": 1.5138523234624024,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -3989,7 +3989,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 198.53081993996224,
+        "demand_score": 1.6741766614031866,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4006,7 +4006,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.9853653945077,
+        "demand_score": 1.5648646128071975,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4023,7 +4023,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4047,9 +4047,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 304.5453653945077,
+        "demand_score": 2.4511375529438513,
         "monthly_trend_score": 86.68593423099618,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-09-10": {
         "date": "2025-09-10",
@@ -4064,7 +4064,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4081,7 +4081,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4105,9 +4105,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 403.48536539450765,
+        "demand_score": 3.2442620527369086,
         "monthly_trend_score": 86.68593423099618,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-09-13": {
         "date": "2025-09-13",
@@ -4143,7 +4143,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 12473.485365394508,
+        "demand_score": 100.0,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "High"
     },
@@ -4181,7 +4181,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 12473.485365394508,
+        "demand_score": 100.0,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "High"
     },
@@ -4212,9 +4212,9 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 503.48536539450765,
+        "demand_score": 4.045883742440829,
         "monthly_trend_score": 86.68593423099618,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-09-16": {
         "date": "2025-09-16",
@@ -4229,7 +4229,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4246,7 +4246,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4263,7 +4263,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4280,7 +4280,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4304,7 +4304,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 213.9853653945077,
+        "demand_score": 1.7251889507479814,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4321,7 +4321,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.9853653945077,
+        "demand_score": 1.5648646128071975,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4338,7 +4338,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4355,7 +4355,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 223.9853653945077,
+        "demand_score": 1.8053511197183731,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4372,7 +4372,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4389,7 +4389,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4406,7 +4406,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 173.9853653945077,
+        "demand_score": 1.4045402748664135,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4430,9 +4430,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 493.9853653945077,
+        "demand_score": 3.9697296819189565,
         "monthly_trend_score": 86.68593423099618,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-09-28": {
         "date": "2025-09-28",
@@ -4447,7 +4447,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 193.9853653945077,
+        "demand_score": 1.5648646128071975,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4471,7 +4471,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 191.8653653945077,
+        "demand_score": 1.5478702329854743,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4495,7 +4495,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 233.62536539450772,
+        "demand_score": 1.8826274506058314,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Low"
     },
@@ -4512,7 +4512,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.36007705160768,
+        "demand_score": 1.327381875813184,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4529,7 +4529,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 164.36007705160768,
+        "demand_score": 1.327381875813184,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4553,7 +4553,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 188.36007705160768,
+        "demand_score": 1.5197710813421246,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4577,7 +4577,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 208.36007705160768,
+        "demand_score": 1.6800954192829085,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4594,7 +4594,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 184.36007705160768,
+        "demand_score": 1.4877062137539678,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4603,7 +4603,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4620,7 +4620,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 200.82658011909234,
+        "demand_score": 1.6098694249252639,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4629,7 +4629,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4646,7 +4646,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 258.4265801190923,
+        "demand_score": 2.071603518194721,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4663,7 +4663,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 217.07991345242567,
+        "demand_score": 1.7401596702251407,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4694,9 +4694,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 570.413246785759,
+        "demand_score": 5.106970766981603,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-12": {
         "date": "2025-10-12",
@@ -4718,7 +4718,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 270.41324678575904,
+        "demand_score": 2.702105697869844,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4735,7 +4735,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 247.07991345242567,
+        "demand_score": 2.5150606369389297,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4744,7 +4744,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4768,9 +4768,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 562.413246785759,
+        "demand_score": 4.508426572002676,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-16": {
         "date": "2025-10-16",
@@ -4792,9 +4792,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 562.413246785759,
+        "demand_score": 4.508426572002676,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-17": {
         "date": "2025-10-17",
@@ -4816,16 +4816,16 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 562.413246785759,
+        "demand_score": 4.508426572002676,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-18": {
         "date": "2025-10-18",
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 183.74658011909233,
+        "demand_score": 1.4729524403238343,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4842,16 +4842,16 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 483.7465801190923,
+        "demand_score": 3.877817509435593,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-20": {
         "date": "2025-10-20",
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4860,7 +4860,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4869,7 +4869,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4878,7 +4878,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4895,9 +4895,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 388.7465801190923,
+        "demand_score": 3.1162769042168694,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-25": {
         "date": "2025-10-25",
@@ -4912,16 +4912,16 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 408.7465801190923,
+        "demand_score": 3.2766012421576534,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-10-26": {
         "date": "2025-10-26",
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 183.74658011909233,
+        "demand_score": 1.4729524403238343,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4930,7 +4930,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4939,7 +4939,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 163.74658011909233,
+        "demand_score": 1.3126281023830504,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4956,7 +4956,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 217.07991345242567,
+        "demand_score": 1.7401596702251407,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4973,7 +4973,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 217.07991345242567,
+        "demand_score": 1.7401596702251407,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4997,16 +4997,16 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 306.55991345242563,
+        "demand_score": 2.457450758172208,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-11-01": {
         "date": "2025-11-01",
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5023,7 +5023,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 209.44369937235126,
+        "demand_score": 1.6789461218870398,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5040,7 +5040,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 239.44369937235126,
+        "demand_score": 1.9194326287982157,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5049,7 +5049,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5058,7 +5058,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5075,7 +5075,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 132.44369937235126,
+        "demand_score": 1.0616974208150216,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5092,7 +5092,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 132.44369937235126,
+        "demand_score": 1.0616974208150216,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5101,7 +5101,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5110,7 +5110,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5119,7 +5119,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5128,7 +5128,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5137,7 +5137,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5146,7 +5146,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5155,7 +5155,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5164,7 +5164,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5173,7 +5173,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5182,7 +5182,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5191,7 +5191,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5200,7 +5200,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5209,7 +5209,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5218,7 +5218,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5227,7 +5227,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5236,7 +5236,7 @@
         "is_holiday": true,
         "holiday_name": "勤労感謝の日",
         "events": [],
-        "demand_score": 189.44369937235126,
+        "demand_score": 1.518621783946256,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5245,7 +5245,7 @@
         "is_holiday": true,
         "holiday_name": "休日",
         "events": [],
-        "demand_score": 169.44369937235126,
+        "demand_score": 1.358297446005472,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5254,7 +5254,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5263,7 +5263,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5272,7 +5272,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5281,7 +5281,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 119.44369937235126,
+        "demand_score": 0.9574866011535121,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5290,7 +5290,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5299,7 +5299,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 139.44369937235126,
+        "demand_score": 1.117810939094296,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5308,7 +5308,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5317,7 +5317,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5326,7 +5326,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5335,7 +5335,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5344,7 +5344,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5353,7 +5353,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 135.34923019151333,
+        "demand_score": 1.084988786062457,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5362,7 +5362,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 135.34923019151333,
+        "demand_score": 1.084988786062457,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5371,7 +5371,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5380,7 +5380,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5397,7 +5397,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 168.68256352484667,
+        "demand_score": 1.3521960159637634,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5414,7 +5414,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 168.68256352484667,
+        "demand_score": 1.3521960159637634,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5438,9 +5438,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 895.3492301915135,
+        "demand_score": 7.177313627812247,
         "monthly_trend_score": 57.674615095756664,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-12-13": {
         "date": "2025-12-13",
@@ -5455,9 +5455,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 862.0158968581801,
+        "demand_score": 6.91010639791094,
         "monthly_trend_score": 57.674615095756664,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-12-14": {
         "date": "2025-12-14",
@@ -5472,16 +5472,16 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 862.0158968581801,
+        "demand_score": 6.91010639791094,
         "monthly_trend_score": 57.674615095756664,
-        "impact_level": "Medium"
+        "impact_level": "Low"
     },
     "2025-12-15": {
         "date": "2025-12-15",
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5490,7 +5490,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5499,7 +5499,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5508,7 +5508,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5517,7 +5517,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5526,7 +5526,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 135.34923019151333,
+        "demand_score": 1.084988786062457,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5535,7 +5535,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 135.34923019151333,
+        "demand_score": 1.084988786062457,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5544,7 +5544,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5553,7 +5553,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5562,7 +5562,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5571,7 +5571,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5580,7 +5580,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5589,7 +5589,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 135.34923019151333,
+        "demand_score": 1.084988786062457,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5598,7 +5598,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 135.34923019151333,
+        "demand_score": 1.084988786062457,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5607,7 +5607,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5616,7 +5616,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5625,7 +5625,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 115.34923019151333,
+        "demand_score": 0.9246644481216729,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5634,7 +5634,7 @@
         "is_holiday": true,
         "holiday_name": "元日",
         "events": [],
-        "demand_score": 180.15664395686926,
+        "demand_score": 1.4441747334009296,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5643,7 +5643,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5652,7 +5652,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5661,7 +5661,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5670,7 +5670,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5679,7 +5679,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5688,7 +5688,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5697,7 +5697,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5706,7 +5706,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5715,7 +5715,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5724,7 +5724,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5733,7 +5733,7 @@
         "is_holiday": true,
         "holiday_name": "成人の日",
         "events": [],
-        "demand_score": 180.15664395686926,
+        "demand_score": 1.4441747334009296,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5742,7 +5742,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5751,7 +5751,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5760,7 +5760,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5769,7 +5769,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5778,7 +5778,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5787,7 +5787,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5796,7 +5796,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5805,7 +5805,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5814,7 +5814,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5823,7 +5823,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5832,7 +5832,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5841,7 +5841,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5850,7 +5850,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5859,7 +5859,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5868,7 +5868,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5877,7 +5877,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5886,7 +5886,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5895,7 +5895,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 130.15664395686926,
+        "demand_score": 1.04336388854897,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5904,7 +5904,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 150.15664395686926,
+        "demand_score": 1.203688226489754,
         "monthly_trend_score": 65.07832197843463,
         "impact_level": "Low"
     },
@@ -5913,7 +5913,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 177.11067002843194,
+        "demand_score": 1.4197575457278495,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -5922,7 +5922,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -5931,7 +5931,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -5940,7 +5940,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -5949,7 +5949,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -5958,7 +5958,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -5989,9 +5989,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 3223.210670028432,
+        "demand_score": 25.837955835798947,
         "monthly_trend_score": 78.55533501421597,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2026-02-08": {
         "date": "2026-02-08",
@@ -6020,16 +6020,16 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 3223.210670028432,
+        "demand_score": 25.837955835798947,
         "monthly_trend_score": 78.55533501421597,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2026-02-09": {
         "date": "2026-02-09",
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6038,7 +6038,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6047,7 +6047,7 @@
         "is_holiday": true,
         "holiday_name": "建国記念の日",
         "events": [],
-        "demand_score": 207.11067002843194,
+        "demand_score": 1.6602440526390254,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6056,7 +6056,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6065,7 +6065,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6082,7 +6082,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 197.11067002843194,
+        "demand_score": 1.5800818836686337,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6099,7 +6099,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 197.11067002843194,
+        "demand_score": 1.5800818836686337,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6108,7 +6108,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6117,7 +6117,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6126,7 +6126,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6135,7 +6135,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6144,7 +6144,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6153,7 +6153,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 177.11067002843194,
+        "demand_score": 1.4197575457278495,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6162,7 +6162,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 177.11067002843194,
+        "demand_score": 1.4197575457278495,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6171,7 +6171,7 @@
         "is_holiday": true,
         "holiday_name": "天皇誕生日",
         "events": [],
-        "demand_score": 207.11067002843194,
+        "demand_score": 1.6602440526390254,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6180,7 +6180,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6189,7 +6189,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6198,7 +6198,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6207,7 +6207,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 157.11067002843194,
+        "demand_score": 1.2594332077870656,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6216,7 +6216,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 177.11067002843194,
+        "demand_score": 1.4197575457278495,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6225,7 +6225,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6234,7 +6234,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6243,7 +6243,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6252,7 +6252,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6261,7 +6261,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6270,7 +6270,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6279,7 +6279,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6288,7 +6288,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6297,7 +6297,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6306,7 +6306,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6315,7 +6315,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6324,7 +6324,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6333,7 +6333,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6350,7 +6350,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 249.35438012982138,
+        "demand_score": 1.998878795347409,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6367,7 +6367,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 249.35438012982138,
+        "demand_score": 1.998878795347409,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6376,7 +6376,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6385,7 +6385,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6394,7 +6394,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6403,7 +6403,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6412,7 +6412,7 @@
         "is_holiday": true,
         "holiday_name": "春分の日",
         "events": [],
-        "demand_score": 184.35438012982138,
+        "demand_score": 1.477824697039861,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6421,7 +6421,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6430,7 +6430,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6439,7 +6439,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6448,7 +6448,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6457,7 +6457,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6474,7 +6474,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 168.95438012982137,
+        "demand_score": 1.3543749568254575,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6483,7 +6483,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6492,7 +6492,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6501,7 +6501,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 154.35438012982138,
+        "demand_score": 1.237338190128685,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6510,7 +6510,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6519,7 +6519,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 134.35438012982138,
+        "demand_score": 1.0770138521879014,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6528,7 +6528,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6537,7 +6537,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6546,7 +6546,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6555,7 +6555,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6564,7 +6564,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6573,7 +6573,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6582,7 +6582,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6591,7 +6591,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6600,7 +6600,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6609,7 +6609,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6618,7 +6618,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6627,7 +6627,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6636,7 +6636,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6645,7 +6645,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6654,7 +6654,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6663,7 +6663,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6672,7 +6672,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6681,7 +6681,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6690,7 +6690,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6699,7 +6699,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6708,7 +6708,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6717,7 +6717,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6726,7 +6726,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6735,7 +6735,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6744,7 +6744,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6753,7 +6753,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6762,7 +6762,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6771,7 +6771,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6780,7 +6780,7 @@
         "is_holiday": true,
         "holiday_name": "昭和の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6789,7 +6789,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6798,7 +6798,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6807,7 +6807,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6816,7 +6816,7 @@
         "is_holiday": true,
         "holiday_name": "憲法記念日",
         "events": [],
-        "demand_score": 70,
+        "demand_score": 0.5611351827927438,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6825,7 +6825,7 @@
         "is_holiday": true,
         "holiday_name": "みどりの日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6834,7 +6834,7 @@
         "is_holiday": true,
         "holiday_name": "こどもの日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6843,7 +6843,7 @@
         "is_holiday": true,
         "holiday_name": "休日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6852,7 +6852,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6861,7 +6861,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6870,7 +6870,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6879,7 +6879,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6888,7 +6888,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6897,7 +6897,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6906,7 +6906,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6915,7 +6915,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6924,7 +6924,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6933,7 +6933,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6942,7 +6942,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6951,7 +6951,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6960,7 +6960,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6969,7 +6969,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6978,7 +6978,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6987,7 +6987,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -6996,7 +6996,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7005,7 +7005,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7014,7 +7014,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7023,7 +7023,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7032,7 +7032,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7041,7 +7041,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7050,7 +7050,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7059,7 +7059,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7068,7 +7068,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7077,7 +7077,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7086,7 +7086,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7095,7 +7095,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7104,7 +7104,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7113,7 +7113,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7122,7 +7122,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7131,7 +7131,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7140,7 +7140,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7149,7 +7149,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7158,7 +7158,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7167,7 +7167,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7176,7 +7176,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7185,7 +7185,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7194,7 +7194,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7203,7 +7203,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7212,7 +7212,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7221,7 +7221,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7230,7 +7230,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7239,7 +7239,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7248,7 +7248,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7257,7 +7257,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7266,7 +7266,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7275,7 +7275,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7284,7 +7284,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7293,7 +7293,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7302,7 +7302,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7311,7 +7311,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7320,7 +7320,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7329,7 +7329,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7338,7 +7338,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7347,7 +7347,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7356,7 +7356,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7365,7 +7365,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7374,7 +7374,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7383,7 +7383,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7392,7 +7392,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7401,7 +7401,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7410,7 +7410,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7419,7 +7419,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7428,7 +7428,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7437,7 +7437,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7446,7 +7446,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7455,7 +7455,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7464,7 +7464,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7473,7 +7473,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7482,7 +7482,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7491,7 +7491,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7500,7 +7500,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7509,7 +7509,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7518,7 +7518,7 @@
         "is_holiday": true,
         "holiday_name": "海の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7527,7 +7527,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7536,7 +7536,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7545,7 +7545,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7554,7 +7554,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7563,7 +7563,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7572,7 +7572,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7581,7 +7581,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7590,7 +7590,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7599,7 +7599,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7608,7 +7608,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7617,7 +7617,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7626,7 +7626,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7635,7 +7635,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7644,7 +7644,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7653,7 +7653,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7662,7 +7662,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7671,7 +7671,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7680,7 +7680,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7689,7 +7689,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7698,7 +7698,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7707,7 +7707,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7716,7 +7716,7 @@
         "is_holiday": true,
         "holiday_name": "山の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7725,7 +7725,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7734,7 +7734,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7743,7 +7743,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7752,7 +7752,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7761,7 +7761,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7770,7 +7770,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7779,7 +7779,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7788,7 +7788,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7797,7 +7797,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7806,7 +7806,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7815,7 +7815,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7824,7 +7824,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7833,7 +7833,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7842,7 +7842,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7851,7 +7851,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7860,7 +7860,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7869,7 +7869,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7878,7 +7878,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7887,7 +7887,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7896,7 +7896,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7905,7 +7905,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7914,7 +7914,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7923,7 +7923,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7932,7 +7932,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7941,7 +7941,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7950,7 +7950,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7959,7 +7959,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7968,7 +7968,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7977,7 +7977,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7986,7 +7986,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -7995,7 +7995,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8004,7 +8004,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8013,7 +8013,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8022,7 +8022,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8031,7 +8031,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8040,7 +8040,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8049,7 +8049,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8058,7 +8058,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8067,7 +8067,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8076,7 +8076,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8085,7 +8085,7 @@
         "is_holiday": true,
         "holiday_name": "敬老の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8094,7 +8094,7 @@
         "is_holiday": true,
         "holiday_name": "休日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8103,7 +8103,7 @@
         "is_holiday": true,
         "holiday_name": "秋分の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8112,7 +8112,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8121,7 +8121,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8130,7 +8130,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8139,7 +8139,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8148,7 +8148,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8157,7 +8157,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8166,7 +8166,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8175,7 +8175,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8184,7 +8184,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8193,7 +8193,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8202,7 +8202,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8211,7 +8211,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8220,7 +8220,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8229,7 +8229,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8238,7 +8238,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8247,7 +8247,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8256,7 +8256,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8265,7 +8265,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8274,7 +8274,7 @@
         "is_holiday": true,
         "holiday_name": "スポーツの日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8283,7 +8283,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8292,7 +8292,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8301,7 +8301,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8310,7 +8310,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8319,7 +8319,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8328,7 +8328,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8337,7 +8337,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8346,7 +8346,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8355,7 +8355,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8364,7 +8364,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8373,7 +8373,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8382,7 +8382,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8391,7 +8391,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8400,7 +8400,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8409,7 +8409,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8418,7 +8418,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8427,7 +8427,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8436,7 +8436,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8445,7 +8445,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8454,7 +8454,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8463,7 +8463,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8472,7 +8472,7 @@
         "is_holiday": true,
         "holiday_name": "文化の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8481,7 +8481,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8490,7 +8490,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8499,7 +8499,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8508,7 +8508,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8517,7 +8517,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8526,7 +8526,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8535,7 +8535,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8544,7 +8544,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8553,7 +8553,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8562,7 +8562,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8571,7 +8571,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8580,7 +8580,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8589,7 +8589,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8598,7 +8598,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8607,7 +8607,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8616,7 +8616,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8625,7 +8625,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8634,7 +8634,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8643,7 +8643,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8652,7 +8652,7 @@
         "is_holiday": true,
         "holiday_name": "勤労感謝の日",
         "events": [],
-        "demand_score": 50,
+        "demand_score": 0.4008108448519598,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8661,7 +8661,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8670,7 +8670,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8679,7 +8679,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8688,7 +8688,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8697,7 +8697,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8706,7 +8706,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8715,7 +8715,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8724,7 +8724,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8733,7 +8733,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8742,7 +8742,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8751,7 +8751,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8760,7 +8760,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8769,7 +8769,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8778,7 +8778,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8787,7 +8787,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8796,7 +8796,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8805,7 +8805,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8814,7 +8814,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8823,7 +8823,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8832,7 +8832,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8841,7 +8841,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8850,7 +8850,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8859,7 +8859,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8868,7 +8868,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8877,7 +8877,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8886,7 +8886,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8895,7 +8895,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8904,7 +8904,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8913,7 +8913,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8922,7 +8922,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8931,7 +8931,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8940,7 +8940,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8949,7 +8949,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8958,7 +8958,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 20,
+        "demand_score": 0.16032433794078393,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8967,7 +8967,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8976,7 +8976,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8985,7 +8985,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     },
@@ -8994,7 +8994,7 @@
         "is_holiday": false,
         "holiday_name": null,
         "events": [],
-        "demand_score": 0,
+        "demand_score": 0.0,
         "monthly_trend_score": 0,
         "impact_level": "Low"
     }
