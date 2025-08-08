@@ -1,6 +1,9 @@
 import pandas as pd
 import re
 import json
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 from datetime import datetime
 
 def process_tourism_trends(raw_data_path):

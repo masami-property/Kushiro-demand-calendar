@@ -45,7 +45,7 @@ def process_event_data(df, event_type, data_source):
         })
     return pd.DataFrame(processed_rows)
 
-if __name__ == "__main__":
+def run_combine_csv():
     # ファイルパス
     cruise_file = 'data/processed/r7-cruise_converted.csv'
     con_file = 'data/processed/r7-con_converted.csv'
@@ -65,12 +65,15 @@ if __name__ == "__main__":
     df_ev = process_event_data(df_ev_raw, 'イベント', 'kushiro-lakeakan.com')
 
     # コンサートデータを読み込み (process_event_dataは不要、既に整形済みのため)
-    df_concert = pd.read_csv(concert_file) # 追加
+    df_concert = pd.read_csv(concert_file)
 
     # 全てのDataFrameを結合
-    combined_df = pd.concat([df_cruise, df_con, df_ev, df_concert], ignore_index=True) # 変更
+    combined_df = pd.concat([df_cruise, df_con, df_ev, df_concert], ignore_index=True)
 
     # CSVとして出力
     combined_df.to_csv(output_file, index=False, encoding='utf-8-sig')
 
     print(f"✅ 全てのCSVファイルを結合し、{output_file} を作成しました。")
+
+if __name__ == "__main__":
+    run_combine_csv()
