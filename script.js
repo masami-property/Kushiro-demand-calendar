@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('../data/processed/calendar_data.json')
+    fetch('data/processed/calendar_data.json')
         .then(response => response.json())
         .then(data => {
             const calendarContainer = document.getElementById('calendar-container');

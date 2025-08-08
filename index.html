@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>釧路宿泊需要予測カレンダー</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>釧路宿泊需要予測カレンダー</h1>
+    <div class="info-box">
+      <p>このカレンダーは、釧路市における宿泊需要を予測するためのものです。</p>
+      <p>以下の要素を統合して各日の需要スコアを算出しています。</p>
+      <ul>
+        <li>イベント情報（大会、クルーズ客船、コンサート）</li>
+        <li>日本の祝日情報</li>
+        <li>釧路市観光統計データに基づく季節トレンド</li>
+        <li>曜日効果</li>
+      </ul>
+      <p>各データソース:</p>
+      <ul>
+        <li>
+          大会・イベント情報:
+          <a href="https://ja.kushiro-lakeakan.com/news/20980/" target="_blank"
+            >釧路観光コンベンション協会</a
+          >
+        </li>
+        <li>
+          クルーズ客船入港情報:
+          <a
+            href="https://www.city.kushiro.lg.jp/sangyou/umisora/1006541/1006592/1006593.html"
+            target="_blank"
+            >釧路市ホームページ</a
+          >
+        </li>
+        <li>
+          コンサート・ライブ情報:
+          <a href="https://l-tike.com/search/?vnu=釧路&pref=01" target="_blank"
+            >L-Tike</a
+          >
+          (手動収集)
+        </li>
+        <li>
+          日本の祝日情報:
+          <a
+            href="https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv"
+            target="_blank"
+            >内閣府</a
+          >
+        </li>
+        <li>
+          観光トレンド情報:
+          <a
+            href="https://www.city.kushiro.lg.jp/sangyou/kankou/1006252/1006253.html"
+            target="_blank"
+            >釧路市ホームページ</a
+          >
+          (手動収集)
+        </li>
+      </ul>
+      <p>
+        詳細なロジックはプロジェクトの
+        <a href="docs/gemini.md" target="_blank">gemini.md</a>
+        をご参照ください。
+      </p>
+    </div>
+    <div id="calendar-container"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
