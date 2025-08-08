@@ -23,8 +23,11 @@ def parse_date_str(date_str, start_date=None):
     date_str = re.sub(r'R\s*(\d+)', lambda m: str(2018 + int(m.group(1))), date_str)
 
     # 曖昧表現はそのまま
-    if re.search(r'(上旬|中旬|下旬|頃|予定|未定)', date_str):
+    if re.search(r'(上旬|中旬|下旬|頃|未定)', date_str):
         return date_str
+
+    # 「(予定)」を削除
+    date_str = date_str.replace("(予定)", "").strip()
 
     # 「2025年7月12日（土）」などのフォーマットを YYYY-MM-DD に変換
     m = re.match(r'(\d{4})年\s*(\d{1,2})月\s*(\d{1,2})日', date_str)
@@ -113,6 +116,11 @@ def convert_to_calendar(df, fmt_type):
     if fmt_type == "イベント":
         for _, row in df.iterrows():
             subject = row.get("行事催事名", "")
+            is_scheduled = False
+            if "(予定)" in subject:
+                subject = subject.replace("(予定)", "").strip()
+                is_scheduled = True
+
             start = row.get("開催期間", "")
             end = ""
             if isinstance(start, str) and any(s in start for s in ["～", "〜", "-"]):
@@ -148,6 +156,8 @@ def convert_to_calendar(df, fmt_type):
                 str(row.get("問い合わせ先", "")).strip(),
                 f"参集人員: {attendance_text}" if attendance_text else ""
             ]
+            if is_scheduled:
+                desc_parts.append("(日程は予定)")
             description = "\n".join([p for p in desc_parts if p])
 
             location = row.get("開催場所", "")
@@ -156,6 +166,11 @@ def convert_to_calendar(df, fmt_type):
     elif fmt_type == "大会":
         for _, row in df.iterrows():
             subject = row.get("大会等の名称", "")
+            is_scheduled = False
+            if "(予定)" in subject:
+                subject = subject.replace("(予定)", "").strip()
+                is_scheduled = True
+
             start = row.get("開催日", "")
             end = ""
             if isinstance(start, str) and any(s in start for s in ["～", "〜", "-"]):
@@ -195,6 +210,8 @@ def convert_to_calendar(df, fmt_type):
                 str(row.get("連絡先", "")).strip(),
                 f"参集人員: {attendance_text}" if attendance_text else ""
             ]
+            if is_scheduled:
+                desc_parts.append("(日程は予定)")
             description = "\n".join([p for p in desc_parts if p])
             location = row.get("会場", "")
 
