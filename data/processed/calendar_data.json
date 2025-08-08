@@ -336,63 +336,19 @@
         "date": "2025-02-07",
         "is_holiday": false,
         "holiday_name": null,
-        "events": [
-            {
-                "subject": "🎉 釧路市障がい者芸術作品展",
-                "event_type": "イベント",
-                "estimated_attendees": 1261,
-                "location": "釧路市観光国際交流\nセンター",
-                "impact_level": "High"
-            },
-            {
-                "subject": "🎉 くしろ消費者まつり",
-                "event_type": "イベント",
-                "estimated_attendees": 3200,
-                "location": "釧路市観光国際交流\nセンター",
-                "impact_level": "High"
-            },
-            {
-                "subject": "🎉 くしろ冬まつり2026",
-                "event_type": "イベント",
-                "estimated_attendees": 26000,
-                "location": "釧路市観光国際交流\nセンター前庭",
-                "impact_level": "High"
-            }
-        ],
-        "demand_score": 3046.1,
+        "events": [],
+        "demand_score": 0,
         "monthly_trend_score": 0,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2025-02-08": {
         "date": "2025-02-08",
         "is_holiday": false,
         "holiday_name": null,
-        "events": [
-            {
-                "subject": "🎉 釧路市障がい者芸術作品展",
-                "event_type": "イベント",
-                "estimated_attendees": 1261,
-                "location": "釧路市観光国際交流\nセンター",
-                "impact_level": "High"
-            },
-            {
-                "subject": "🎉 くしろ消費者まつり",
-                "event_type": "イベント",
-                "estimated_attendees": 3200,
-                "location": "釧路市観光国際交流\nセンター",
-                "impact_level": "High"
-            },
-            {
-                "subject": "🎉 くしろ冬まつり2026",
-                "event_type": "イベント",
-                "estimated_attendees": 26000,
-                "location": "釧路市観光国際交流\nセンター前庭",
-                "impact_level": "High"
-            }
-        ],
-        "demand_score": 3066.1,
+        "events": [],
+        "demand_score": 20,
         "monthly_trend_score": 0,
-        "impact_level": "High"
+        "impact_level": "Low"
     },
     "2025-02-09": {
         "date": "2025-02-09",
@@ -6010,19 +5966,63 @@
         "date": "2026-02-07",
         "is_holiday": false,
         "holiday_name": null,
-        "events": [],
-        "demand_score": 177.11067002843194,
+        "events": [
+            {
+                "subject": "🎉 釧路市障がい者芸術作品展",
+                "event_type": "イベント",
+                "estimated_attendees": 1261,
+                "location": "釧路市観光国際交流\nセンター",
+                "impact_level": "High"
+            },
+            {
+                "subject": "🎉 くしろ消費者まつり",
+                "event_type": "イベント",
+                "estimated_attendees": 3200,
+                "location": "釧路市観光国際交流\nセンター",
+                "impact_level": "High"
+            },
+            {
+                "subject": "🎉 くしろ冬まつり2026",
+                "event_type": "イベント",
+                "estimated_attendees": 26000,
+                "location": "釧路市観光国際交流\nセンター前庭",
+                "impact_level": "High"
+            }
+        ],
+        "demand_score": 3223.210670028432,
         "monthly_trend_score": 78.55533501421597,
-        "impact_level": "Low"
+        "impact_level": "High"
     },
     "2026-02-08": {
         "date": "2026-02-08",
         "is_holiday": false,
         "holiday_name": null,
-        "events": [],
-        "demand_score": 177.11067002843194,
+        "events": [
+            {
+                "subject": "🎉 釧路市障がい者芸術作品展",
+                "event_type": "イベント",
+                "estimated_attendees": 1261,
+                "location": "釧路市観光国際交流\nセンター",
+                "impact_level": "High"
+            },
+            {
+                "subject": "🎉 くしろ消費者まつり",
+                "event_type": "イベント",
+                "estimated_attendees": 3200,
+                "location": "釧路市観光国際交流\nセンター",
+                "impact_level": "High"
+            },
+            {
+                "subject": "🎉 くしろ冬まつり2026",
+                "event_type": "イベント",
+                "estimated_attendees": 26000,
+                "location": "釧路市観光国際交流\nセンター前庭",
+                "impact_level": "High"
+            }
+        ],
+        "demand_score": 3223.210670028432,
         "monthly_trend_score": 78.55533501421597,
-        "impact_level": "Low"
+        "impact_level": "High"
     },
     "2026-02-09": {
         "date": "2026-02-09",

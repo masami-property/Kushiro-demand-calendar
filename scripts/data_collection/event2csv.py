@@ -8,7 +8,7 @@ import re
 from datetime import datetime
 
 # 日付文字列を可能な限り YYYY-MM-DD に変換（和暦Rを西暦に変換）
-def parse_date_str(date_str, start_date=None):
+def parse_date_str(date_str, start_date=None, reiwa_year_context=None):
     if not date_str or not isinstance(date_str, str):
         return date_str
 
@@ -36,7 +36,7 @@ def parse_date_str(date_str, start_date=None):
         try:
             dt = datetime(y, m_, d)
             return dt.strftime("%Y-%m-%d")
-        except:
+        except ValueError:
             return f"{y}-{m_:02d}-{d:02d}"
     
     # 「2025年13日（日）」のような形式（月が抜けている場合）
@@ -50,7 +50,7 @@ def parse_date_str(date_str, start_date=None):
             try:
                 dt = datetime(y, start_month, d)
                 return dt.strftime("%Y-%m-%d")
-            except:
+            except ValueError:
                 return f"{y}-{start_month:02d}-{d:02d}"
     
     # yyyy/mm/dd, yyyy.mm.dd に対応
@@ -58,18 +58,35 @@ def parse_date_str(date_str, start_date=None):
         try:
             dt = datetime.strptime(date_str, fmt)
             return dt.strftime("%Y-%m-%d")
-        except:
+        except ValueError:
             continue
 
-    # 月日だけのフォーマットがあれば今年の西暦に
+    # 月日だけのフォーマットがあれば適切な西暦に
     m = re.match(r'(\d{1,2})[月/-](\d{1,2})日?', date_str)
     if m:
-        m_, d = int(m.group(1)), int(m.group(2))
-        y = datetime.now().year
+        m_ = int(m.group(1))
+        d = int(m.group(2))
+        
+        if reiwa_year_context is not None:
+            # 令和の年が指定されている場合、その年の4月始まりで計算
+            base_gregorian_year = 2018 + reiwa_year_context
+            if 4 <= m_ <= 12:
+                y = base_gregorian_year
+            else: # 1月, 2月, 3月
+                y = base_gregorian_year + 1
+        else:
+            # 令和の年が不明な場合、現在の年を基準に判断 (既存のロジック)
+            current_year = datetime.now().year
+            current_month = datetime.now().month
+            if m_ < current_month:
+                y = current_year + 1
+            else:
+                y = current_year
+            
         try:
             dt = datetime(y, m_, d)
             return dt.strftime("%Y-%m-%d")
-        except:
+        except ValueError: # 日付として不正な場合
             return date_str
 
     return date_str
@@ -110,7 +127,7 @@ def detect_format(df):
         return "不明"
 
 # カレンダー変換
-def convert_to_calendar(df, fmt_type):
+def convert_to_calendar(df, fmt_type, reiwa_year_context=None):
     calendar_rows = []
 
     if fmt_type == "イベント":
@@ -129,8 +146,8 @@ def convert_to_calendar(df, fmt_type):
             else:
                 start_raw, end_raw = start, ""
 
-            start_parsed = parse_date_str(start_raw)
-            end_parsed = parse_date_str(end_raw, start_parsed) if end_raw else ""
+            start_parsed = parse_date_str(start_raw, reiwa_year_context=reiwa_year_context)
+            end_parsed = parse_date_str(end_raw, start_parsed, reiwa_year_context=reiwa_year_context) if end_raw else ""
 
             # 参集人員解析
             attendance_raw = str(row.get("参集人員", "")).strip()
@@ -179,8 +196,8 @@ def convert_to_calendar(df, fmt_type):
             else:
                 start_raw, end_raw = start, ""
 
-            start_parsed = parse_date_str(start_raw)
-            end_parsed = parse_date_str(end_raw, start_parsed) if end_raw else ""
+            start_parsed = parse_date_str(start_raw, reiwa_year_context=reiwa_year_context)
+            end_parsed = parse_date_str(end_raw, start_parsed, reiwa_year_context=reiwa_year_context) if end_raw else ""
 
             # 参集人員（con形式は単年度人数）
             attendance_raw = str(row.get("参集\n人員", "")).strip()
@@ -268,7 +285,13 @@ if __name__ == "__main__":
         fmt_type = detect_format(df)
         print(f"📄 判定: {fmt_type}")
 
-        cal_df = convert_to_calendar(df, fmt_type)
+        # ファイル名から令和の年を抽出
+        reiwa_year_context = None
+        match_r_year = re.search(r'r(\d+)-', os.path.basename(input_path))
+        if match_r_year:
+            reiwa_year_context = int(match_r_year.group(1))
+
+        cal_df = convert_to_calendar(df, fmt_type, reiwa_year_context=reiwa_year_context)
 
         base = os.path.splitext(os.path.basename(input_path))[0]
         output_csv = f"data/processed/{base}_converted.csv"
