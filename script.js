@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
+    let activeTooltip = null; // 現在表示中のツールチップを追跡
+
     fetch('data/processed/calendar_data.json')
         .then(response => response.json())
         .then(data => {
@@ -92,6 +94,27 @@ document.addEventListener('DOMContentLoaded', () => {
                             }
                             tooltip.innerHTML = tooltipContent;
                             dayDiv.appendChild(tooltip);
+
+                            // スマホ対応：タップでツールチップ表示
+                            dayDiv.addEventListener('click', function(e) {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                
+                                // 他のアクティブなツールチップを隠す
+                                if (activeTooltip && activeTooltip !== tooltip) {
+                                    activeTooltip.classList.remove('tooltip-active');
+                                }
+                                
+                                // 現在のツールチップの表示を切り替え
+                                const isActive = tooltip.classList.contains('tooltip-active');
+                                if (isActive) {
+                                    tooltip.classList.remove('tooltip-active');
+                                    activeTooltip = null;
+                                } else {
+                                    tooltip.classList.add('tooltip-active');
+                                    activeTooltip = tooltip;
+                                }
+                            });
                         }
                         dayGridDiv.appendChild(dayDiv);
                     }
@@ -101,6 +124,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 yearCalendarDiv.appendChild(monthGridDiv);
                 calendarContainer.appendChild(yearCalendarDiv);
             }
+
+            // 背景をクリックしたときにツールチップを隠す
+            document.addEventListener('click', function(e) {
+                if (activeTooltip && !e.target.closest('.day')) {
+                    activeTooltip.classList.remove('tooltip-active');
+                    activeTooltip = null;
+                }
+            });
         })
         .catch(error => console.error('Error fetching calendar data:', error));
 });
