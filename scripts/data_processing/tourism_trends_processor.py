@@ -10,9 +10,20 @@ def process_tourism_trends(raw_data_path):
         with open(raw_data_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
+        # 「宿泊客延数（月別）推移」のセクションを抽出
+        # このセクションの開始位置を探し、そこからファイルの最後までを対象とする
+        start_marker = "宿泊客延数（月別）推移"
+        start_index = content.find(start_marker)
+        if start_index == -1:
+            print(f"Error: '{start_marker}' section not found in the raw data.")
+            return {}
+
+        # 開始マーカー以降のコンテンツを抽出
+        target_content = content[start_index:]
+
         # 各月のデータを正規表現で抽出
         # 例: "4月: 123,456" の形式に対応
-        matches = re.findall(r'(\d{1,2})月:\s*([\d,]+)', content)
+        matches = re.findall(r'(\d{1,2})月:\s*([\d,]+)', target_content)
         for month_str, value_str in matches:
             month = int(month_str)
             value = int(value_str.replace(',', ''))
