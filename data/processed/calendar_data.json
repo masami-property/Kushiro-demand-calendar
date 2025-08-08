@@ -1007,7 +1007,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 138.93138780108364,
+        "demand_score": 163.93138780108364,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1031,7 +1031,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 138.93138780108364,
+        "demand_score": 163.93138780108364,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1048,7 +1048,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 94.18138780108363,
+        "demand_score": 101.18138780108363,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1065,7 +1065,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 94.18138780108363,
+        "demand_score": 101.18138780108363,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1082,7 +1082,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 94.18138780108363,
+        "demand_score": 101.18138780108363,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1099,7 +1099,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 94.18138780108363,
+        "demand_score": 101.18138780108363,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1116,7 +1116,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 94.18138780108363,
+        "demand_score": 101.18138780108363,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -1147,9 +1147,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 279.79488473359896,
+        "demand_score": 426.79488473359896,
         "monthly_trend_score": 46.965693900541815,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-04-27": {
         "date": "2025-04-27",
@@ -1178,9 +1178,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 279.79488473359896,
+        "demand_score": 426.79488473359896,
         "monthly_trend_score": 46.965693900541815,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-04-28": {
         "date": "2025-04-28",
@@ -1202,7 +1202,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 94.79488473359896,
+        "demand_score": 101.79488473359896,
         "monthly_trend_score": 46.965693900541815,
         "impact_level": "Low"
     },
@@ -2092,7 +2092,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 204.39423115635887,
+        "demand_score": 274.39423115635884,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2116,7 +2116,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 204.39423115635887,
+        "demand_score": 274.39423115635884,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2140,7 +2140,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 184.39423115635887,
+        "demand_score": 254.39423115635887,
         "monthly_trend_score": 80.22370044525509,
         "impact_level": "Low"
     },
@@ -2426,7 +2426,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 204.70823433930684,
+        "demand_score": 209.70823433930684,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2450,7 +2450,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 204.70823433930684,
+        "demand_score": 209.70823433930684,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2491,7 +2491,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 234.70823433930684,
+        "demand_score": 274.70823433930684,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2522,7 +2522,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 235.5653771964497,
+        "demand_score": 293.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2546,7 +2546,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 175.5653771964497,
+        "demand_score": 193.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2570,7 +2570,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 175.5653771964497,
+        "demand_score": 193.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2594,7 +2594,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 175.5653771964497,
+        "demand_score": 193.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2618,7 +2618,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 175.5653771964497,
+        "demand_score": 193.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2656,7 +2656,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 275.5653771964497,
+        "demand_score": 293.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Low"
     },
@@ -2701,7 +2701,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 440.5653771964497,
+        "demand_score": 578.5653771964497,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Medium"
     },
@@ -2739,7 +2739,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 439.7082343393068,
+        "demand_score": 559.7082343393068,
         "monthly_trend_score": 87.04736870339575,
         "impact_level": "Medium"
     },
@@ -2848,9 +2848,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 224.04156767264018,
+        "demand_score": 312.04156767264016,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-07-20": {
         "date": "2025-07-20",
@@ -2872,9 +2872,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 224.04156767264018,
+        "demand_score": 312.04156767264016,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-07-21": {
         "date": "2025-07-21",
@@ -2896,9 +2896,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 254.04156767264018,
+        "demand_score": 342.04156767264016,
         "monthly_trend_score": 87.04736870339575,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-07-22": {
         "date": "2025-07-22",
@@ -3310,7 +3310,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 527.6134969325153,
+        "demand_score": 534.6134969325153,
         "monthly_trend_score": 100.0,
         "impact_level": "Medium"
     },
@@ -3341,7 +3341,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 527.6134969325153,
+        "demand_score": 534.6134969325153,
         "monthly_trend_score": 100.0,
         "impact_level": "Medium"
     },
@@ -3433,9 +3433,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 250.61349693251535,
+        "demand_score": 350.6134969325153,
         "monthly_trend_score": 100.0,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-08-16": {
         "date": "2025-08-16",
@@ -3464,9 +3464,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 275.1589514779699,
+        "demand_score": 375.1589514779699,
         "monthly_trend_score": 100.0,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-08-17": {
         "date": "2025-08-17",
@@ -3495,9 +3495,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 275.1589514779699,
+        "demand_score": 375.1589514779699,
         "monthly_trend_score": 100.0,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-08-18": {
         "date": "2025-08-18",
@@ -4105,9 +4105,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 217.4853653945077,
+        "demand_score": 403.48536539450765,
         "monthly_trend_score": 86.68593423099618,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-09-13": {
         "date": "2025-09-13",
@@ -4143,7 +4143,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 12287.485365394508,
+        "demand_score": 12473.485365394508,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "High"
     },
@@ -4181,7 +4181,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 12287.485365394508,
+        "demand_score": 12473.485365394508,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "High"
     },
@@ -4212,7 +4212,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 317.48536539450765,
+        "demand_score": 503.48536539450765,
         "monthly_trend_score": 86.68593423099618,
         "impact_level": "Medium"
     },
@@ -4553,7 +4553,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 176.36007705160768,
+        "demand_score": 188.36007705160768,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4577,7 +4577,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 196.36007705160768,
+        "demand_score": 208.36007705160768,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4663,7 +4663,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 177.07991345242567,
+        "demand_score": 217.07991345242567,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4694,7 +4694,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 530.413246785759,
+        "demand_score": 570.413246785759,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Medium"
     },
@@ -4718,7 +4718,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 230.41324678575901,
+        "demand_score": 270.41324678575904,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4768,9 +4768,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 288.41324678575904,
+        "demand_score": 562.413246785759,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-10-16": {
         "date": "2025-10-16",
@@ -4792,9 +4792,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 288.41324678575904,
+        "demand_score": 562.413246785759,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-10-17": {
         "date": "2025-10-17",
@@ -4816,9 +4816,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 288.41324678575904,
+        "demand_score": 562.413246785759,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-10-18": {
         "date": "2025-10-18",
@@ -4895,9 +4895,9 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 288.7465801190923,
+        "demand_score": 388.7465801190923,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-10-25": {
         "date": "2025-10-25",
@@ -4912,7 +4912,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 308.7465801190923,
+        "demand_score": 408.7465801190923,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Medium"
     },
@@ -4956,7 +4956,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 177.07991345242567,
+        "demand_score": 217.07991345242567,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4973,7 +4973,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 177.07991345242567,
+        "demand_score": 217.07991345242567,
         "monthly_trend_score": 81.87329005954616,
         "impact_level": "Low"
     },
@@ -4997,9 +4997,9 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 266.55991345242563,
+        "demand_score": 306.55991345242563,
         "monthly_trend_score": 81.87329005954616,
-        "impact_level": "Low"
+        "impact_level": "Medium"
     },
     "2025-11-01": {
         "date": "2025-11-01",
@@ -5023,7 +5023,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 174.44369937235126,
+        "demand_score": 209.44369937235126,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5040,7 +5040,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 204.44369937235126,
+        "demand_score": 239.44369937235126,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5075,7 +5075,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 125.94369937235126,
+        "demand_score": 132.44369937235126,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5092,7 +5092,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 125.94369937235126,
+        "demand_score": 132.44369937235126,
         "monthly_trend_score": 59.72184968617563,
         "impact_level": "Low"
     },
@@ -5397,7 +5397,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 128.68256352484667,
+        "demand_score": 168.68256352484667,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5414,7 +5414,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 128.68256352484667,
+        "demand_score": 168.68256352484667,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Low"
     },
@@ -5438,7 +5438,7 @@
                 "impact_level": "High"
             }
         ],
-        "demand_score": 855.3492301915135,
+        "demand_score": 895.3492301915135,
         "monthly_trend_score": 57.674615095756664,
         "impact_level": "Medium"
     },
@@ -6038,7 +6038,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 187.11067002843194,
+        "demand_score": 197.11067002843194,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6055,7 +6055,7 @@
                 "impact_level": "Low"
             }
         ],
-        "demand_score": 187.11067002843194,
+        "demand_score": 197.11067002843194,
         "monthly_trend_score": 78.55533501421597,
         "impact_level": "Low"
     },
@@ -6306,7 +6306,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 201.85438012982138,
+        "demand_score": 249.35438012982138,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },
@@ -6323,7 +6323,7 @@
                 "impact_level": "Medium"
             }
         ],
-        "demand_score": 201.85438012982138,
+        "demand_score": 249.35438012982138,
         "monthly_trend_score": 67.17719006491069,
         "impact_level": "Low"
     },

@@ -95,7 +95,12 @@ def generate_calendar_data(events_csv_path, start_year, end_year):
                 
                 # 大会イベントの追加重み付け
                 if event['EventType'] == '大会':
-                    # 「全国」レベルの大会、または推定参加者数が500人以上の大会にボーナス
+                    # 複数日にわたる大会の場合、宿泊需要を考慮してスコアを増幅
+                    if duration > 1:
+                        # 参加者数に応じて追加スコアを加算 (例: 参加者10人あたり1点)
+                        score_to_add += (event['EstimatedAttendees'] / 10) * (duration - 1) 
+                    
+                    # 既存のボーナスロジック
                     if "全国" in event['Subject'] or event['EstimatedAttendees'] >= 500:
                         score_to_add += 50 / duration # 追加で50点を日割り加算
 
