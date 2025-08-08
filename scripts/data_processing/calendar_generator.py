@@ -104,7 +104,9 @@ def generate_calendar_data(events_csv_path, start_year, end_year):
                     )
 
                 if event["EventType"] == "クルーズ":
-                    score_to_add /= 5  # クルーズ船のウェイトを1/5に
+                    score_to_add /= (
+                        10  # クルーズ船のウェイトを1/10に（宿泊客への影響少ない）
+                    )
 
                 if event["EventType"] == "大会":
                     if duration > 1:
@@ -127,31 +129,50 @@ def generate_calendar_data(events_csv_path, start_year, end_year):
         if current_date.weekday() >= 5:  # 土日
             daily_data["demand_score"] += 20
 
+        # 固定の閾値で影響度を判定
+        daily_data["impact_level"] = (
+            "High"
+            if daily_data["demand_score"] >= 1000
+            else "Medium" if daily_data["demand_score"] >= 300 else "Low"
+        )
+
         # スコア計算のログ出力
-        event_scores = [
-            f"{e['subject']}({score_to_add:.2f})" for e in daily_data["events"]
-        ]
+        event_scores = []
+        for _, event in df_events.iterrows():
+            if event["StartDate"].date() <= current_date <= event["EndDate"].date():
+                duration = (
+                    event["EndDate"].date() - event["StartDate"].date()
+                ).days + 1
+                if event["EstimatedAttendees"] > 0:
+                    base_score = (event["EstimatedAttendees"] / duration) / 5
+                else:
+                    base_score = default_scores.get(event["EventType"], 100) / duration
+
+                if event["EventType"] == "クルーズ":
+                    base_score /= 10
+
+                if event["EventType"] == "大会":
+                    if duration > 1:
+                        base_score += (event["EstimatedAttendees"] / 10) * (
+                            duration - 1
+                        )
+                    if "全国" in event["Subject"] or event["EstimatedAttendees"] >= 500:
+                        base_score += 50 / duration
+
+                if (
+                    "霧フェス" in event["Subject"]
+                    or "KUSHIRO KIRI FESTIVAL" in event["Subject"]
+                ):
+                    base_score += 200 / duration
+
+                event_scores.append(f"{event['Subject']}({base_score:.2f})")
+
         print(
-            f"{date_str}: DemandScore={daily_data['demand_score']:.2f}, Holiday={50 if daily_data['is_holiday'] else 0}, Weekend={20 if current_date.weekday() >= 5 else 0}, Trend={daily_data['monthly_trend_score'] * 2}, Events={event_scores}"
+            f"{date_str}: DemandScore={daily_data['demand_score']:.2f}, Holiday={50 if daily_data['is_holiday'] else 0}, Weekend={20 if current_date.weekday() >= 5 else 0}, Trend={daily_data['monthly_trend_score'] * 2}, Events={event_scores}, Impact={daily_data['impact_level']}"
         )
 
         calendar_data[date_str] = daily_data
         current_date += timedelta(days=1)
-
-    # スコアを0～100に正規化
-    max_score = max(
-        [data["demand_score"] for data in calendar_data.values()], default=1
-    )
-    for date, data in calendar_data.items():
-        data["demand_score"] = (
-            (data["demand_score"] / max_score) * 100 if max_score > 0 else 0
-        )
-        # 正規化後の影響度判定（30点で黄色、50点で赤）
-        data["impact_level"] = (
-            "High"
-            if data["demand_score"] >= 50
-            else "Medium" if data["demand_score"] >= 30 else "Low"
-        )
 
     return calendar_data
 
