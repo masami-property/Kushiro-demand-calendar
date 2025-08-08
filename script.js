@@ -113,6 +113,21 @@ document.addEventListener('DOMContentLoaded', () => {
                                 } else {
                                     tooltip.classList.add('tooltip-active');
                                     activeTooltip = tooltip;
+
+                                    // ツールチップの表示位置を調整
+                                    const tooltipRect = tooltip.getBoundingClientRect();
+                                    const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+                                    const viewportHeight = window.innerHeight || document.documentElement.clientHeight;
+
+                                    // 右端からはみ出す場合
+                                    if (tooltipRect.right > viewportWidth) {
+                                        tooltip.style.left = `-${tooltipRect.width}px`;
+                                    }
+
+                                    // 下端からはみ出す場合
+                                    if (tooltipRect.bottom > viewportHeight) {
+                                        tooltip.style.top = `-${tooltipRect.height}px`;
+                                    }
                                 }
                             });
                         }
