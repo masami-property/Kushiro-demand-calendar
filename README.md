@@ -12,8 +12,14 @@
 - 年間カレンダー形式での視覚化（HTML/CSS/JavaScript）
 - マウスホバーによる詳細情報表示
 
+## スコアリング基準
+- **High (1000点以上)**: 大規模イベント（霧フェス等）・複数イベント重複日
+- **Medium (300-999点)**: 中規模イベント・祝日・観光シーズン
+- **Low (299点以下)**: 通常日・小規模イベント
+
 ## データソース
 本プロジェクトで利用しているデータは全て公開情報源に基づいています。
+
 - **大会・イベント情報**: [釧路観光コンベンション協会](https://ja.kushiro-lakeakan.com/news/20980/)
 - **クルーズ客船入港情報**: [釧路市ホームページ](https://www.city.kushiro.lg.jp/sangyou/umisora/1006541/1006592/1006593.html)
 - **コンサート・ライブ情報**: [L-Tike](https://l-tike.com/search/?vnu=釧路&pref=01) (手動コピー＆ペースト)
@@ -21,17 +27,20 @@
 - **観光トレンド情報**: [釧路市観光統計](https://www.city.kushiro.lg.jp/sangyou/kankou/1006252/1006253.html) (手動コピー＆ペースト)
 
 ## セットアップ方法
+
 1. リポジトリをクローンします。
    ```bash
    git clone https://github.com/masami-property/Kushiro-demand-calendar.git
    cd Kushiro-demand-calendar
    ```
+
 2. 必要なPythonライブラリをインストールします。
    ```bash
    pip install -r requirements.txt
    ```
 
 ## 実行方法
+
 本プロジェクトは、以下のスクリプトを順番に実行することで、需要予測カレンダーのデータを生成します。
 
 1. **生データの前処理 (必要に応じて手動で `data/raw/` にデータを配置後)**
@@ -44,23 +53,29 @@
    - `scripts/data_processing/combine_csv.py`: 全てのイベントデータを統合
    - `scripts/data_processing/calendar_generator.py`: 統合データと祝日、トレンド情報からカレンダーデータを生成
 
-   各スクリプトは、プロジェクトのルートディレクトリから以下のように実行します。
-   ```bash
-   python scripts/data_collection/event2csv.py [PDFのURL]
-   python scripts/data_collection/cruise_scraper.py
-   python scripts/data_collection/concert_processor.py
-   python scripts/data_processing/tourism_trends_processor.py
-   python scripts/data_processing/combine_csv.py
-   python scripts/data_processing/calendar_generator.py
-   ```
+各スクリプトは、プロジェクトのルートディレクトリから以下のように実行します。
 
-## GitHub Pagesでの閲覧方法
+```bash
+python scripts/data_collection/event2csv.py [PDFのURL]
+python scripts/data_collection/cruise_scraper.py
+python scripts/data_collection/concert_processor.py
+python scripts/data_processing/tourism_trends_processor.py
+python scripts/data_processing/combine_csv.py
+python scripts/data_processing/calendar_generator.py
+```
+
+## 閲覧方法
+
+### GitHub Pagesでの閲覧
 本カレンダーはGitHub Pagesで公開されています。
 
-[カレンダーを見る](https://masami-property.github.io/Kushiro-demand-calendar/)
+[📅 カレンダーを見る](https://masami-property.github.io/Kushiro-demand-calendar/)
 
-または、ローカルでウェブサーバーを起動して閲覧することも可能です。
-プロジェクトのルートディレクトリで以下のコマンドを実行し、ブラウザで `http://localhost:8000/web/index.html` にアクセスしてください。
+### ローカルでの閲覧
+ローカルでウェブサーバーを起動して閲覧することも可能です。
+
+プロジェクトのルートディレクトリで以下のコマンドを実行し、ブラウザで `http://localhost:8000` にアクセスしてください。
+
 ```bash
 python -m http.server 8000
 ```
